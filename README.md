@@ -3,5 +3,5 @@
 <hr>
 <div>
   <h3>My Expertise:</h3>
-  <img src='https://skillicons.dev/icons?i=html,css,js,py,github,linkedin,sqlite,postman,pycharm,vscode&perline=6'>
+  <img src='https://skillicons.dev/icons?i=html,css,js,py,github,linkedin,sqlite,postman,pycharm,vscode&perline=5'>
 </div>
